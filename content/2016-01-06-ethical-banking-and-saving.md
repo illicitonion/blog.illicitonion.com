@@ -1,5 +1,7 @@
 +++
 title = "Ethical Banking and Saving"
+
+aliases = ["/2016/01/ethical-banking-and-saving.html"]
 +++
 
 I generally seek to have a positive effect on the world where I can, particularly where it's easy to achieve with only small changes in behaviour. I have a bank account. I have a savings account. Right now, the profits of these largely go to banks who, while serving a useful function, aren't necessarily my dream beneficiaries.

@@ -1,5 +1,7 @@
 +++
 title = "Rust: Lacking equivalence under simple refactorings"
+
+aliases = ["/2018/01/rust-lacking-equivalence-under-simple.html"]
 +++
 
 I've been writing a fair bit of Rust recently. I'm new to the language, and it's been alternating between making me very happy, and making me very frustrated. One of the things I've been finding frustrating is the number of places that I expect two pieces of code to be equivalent where they are not. Here's some sample code, which I'm going to use in a few examples:

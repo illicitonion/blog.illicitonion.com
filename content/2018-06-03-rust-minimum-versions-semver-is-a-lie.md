@@ -1,5 +1,7 @@
 +++
 title = "Rust minimum versions: SemVer is a lie!"
+
+aliases = ["/2018/06/rust-minimum-versions-semver-is-lie.html"]
 +++
 
 A couple of months ago, [cargo got a new feature](https://github.com/rust-lang/cargo/pull/5200) I've been wanting for a while; an option to select the minimum, rather than maximum, compatible versions of each of your (transitive) dependencies, according to semver. So if you say you depend on `foobar` version `1.1`, it will pick `1.1.0` not `1.1.16`, as opposed to the standard behaviour of choosing `1.1.16`. By traditional wisdom, this isn't something you actually want to use in real life, because newer versions tend to have optimisations / security fixes / ... which older versions don't. But it's a useful tool for checking whether your declared supported dependency versions are accurate.

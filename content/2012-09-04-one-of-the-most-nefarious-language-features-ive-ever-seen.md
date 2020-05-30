@@ -1,5 +1,7 @@
 +++
 title = "One of the most nefarious language features I've ever seen"
+
+aliases = ["/2012/09/one-of-most-nefarious-language-features.html"]
 +++
 
 Take a look at the following code:

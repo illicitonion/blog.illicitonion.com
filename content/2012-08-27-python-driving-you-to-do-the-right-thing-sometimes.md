@@ -1,5 +1,7 @@
 +++
 title = "Python, driving you to do the right thing, sometimes"
+
+aliases = ["/2012/08/python-driving-you-to-do-right-thing.html"]
 +++
 
 This week I've been writing my first real Python. I mean, I've hacked together 100-line scripts before, but I've been writing real code from scratch, structured, with tests and everything.

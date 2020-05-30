@@ -1,5 +1,7 @@
 +++
 title = "Brightness hotkeys for Dell XPS on Elementary OS"
+
+aliases = ["/2018/09/brightness-hotkeys-for-dell-xps-on.html"]
 +++
 
 I recently got a new laptop; a Dell XPS 13. It's pretty swanky, but it isn't a MacBook, which is a first for me in quite some time. That's meant getting used to a new physical construction, a new keyboard, a new trackpad, and even a new operating system! I installed Elementary OS because I wanted a Linux, and I wanted it to be simple and easy to use. So far, it's mostly lived up to these things, which has been great.

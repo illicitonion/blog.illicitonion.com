@@ -1,5 +1,7 @@
 +++
 title = "Scripted/Command Line Android Emulator Installation"
+
+aliases = ["/2011/12/scriptedcommand-line-android-emulator.html"]
 +++
 
 If you're anything like me, you tend to script things like installation, because inevitably, you're going to do it again, and you'll never quite remember the right sequence of steps needed. In particular, I was trying to install the Android emulator, such that I can run tests in it without any manual intervention; able to spin up machines and have them configure themselves to Just Work.

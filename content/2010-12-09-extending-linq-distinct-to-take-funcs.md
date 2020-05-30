@@ -1,5 +1,7 @@
 +++
 title = "Extending LINQ Distinct to take Funcs"
+
+aliases = ["/2010/12/extending-linq-distinct-to-take-funcs.html"]
 +++
 
 I've recently been getting to know C#, and one thing that struck me as very nice is how elegant LINQ is. Most of the time. Every now and then, I come across a corner which just makes me think "this could be a little nicer!" - occasionally these are syntax issues which would require a change to the parser itself[^1], but thanks to extension methods, a lot of things are achievable.

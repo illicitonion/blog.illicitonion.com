@@ -1,5 +1,7 @@
 +++
 title = "Your app isn't all UI, don't test it like it is!"
+
+aliases = ["/2012/08/your-app-isnt-all-ui-dont-test-it-like.html"]
 +++
 
 There are two common pieces of advice I give about testing software:

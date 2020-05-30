@@ -1,5 +1,7 @@
 +++
 title = "What I want from a code review tool"
+
+aliases = ["/2018/06/what-i-want-from-code-review-tool.html"]
 +++
 
 Many of my friends and colleagues will have heard me decry the state of code review tooling in the open source world. Here, I try to collect my thoughts on what I feel is missing; maybe it will help motivate some of the big players in that direction, maybe it will serve as a roadmap for my next side-project.
