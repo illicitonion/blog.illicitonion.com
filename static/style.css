@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
+
+body {
+  font-family: 'Lato', sans-serif;
+  font-size: 110%;
+  background-color: rgb(236, 236, 236);
+  margin-top: 0px;
+}
+
+.centre-column {
+  max-width: 65vw;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0px;
+  padding-top: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 25px;
+  background-color: white;
+}
+
+.header {
+  min-width: 60%;
+  margin-bottom: 30px;
+}
+
+.header .gradient {
+  height: 30px;
+  background: rgb(210, 163, 255);
+  background: linear-gradient(0deg, rgba(210, 163, 255 , 0.5) 0%, rgba(210, 163, 255, 1) 80%);
+}
+
+.header h1 {
+  margin-top: 0px;
+}
+
+h1 a {
+  color: black;
+  text-decoration: none;
+}
+
+h1 a:visited {
+  color: black;
+}
+
+.title h1 {
+  margin-top: 0px;
+}
+
+.title .date {
+  font-style: italic;
+  text-align: right;
+}
+
+p code {
+  background-color: rgb(240, 240, 240);
+  padding-left: 3px;
+  padding-right: 3px;
+}
+
+pre code {
+  display: block;
+  padding: 1em;
+}
+
+ol, ul {
+  margin-top: 5px;
+}
+
+li {
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+
+.footnote-definition[id='1'] {
+  margin-top: 100px;
+}
+
+.footnote-definition > p {
+  display: inline;
+}
+
+a {
+  color: rgb(195, 47, 197);
+}
+
+a:visited {
+  color: rgb(85, 26, 139);
+}
+
+.toc li {
+  list-style-type: none;
+}
+
+.toc .date {
+  font-size: small;
+}
+
+.footer {
+  margin-top: 100px;
+}
