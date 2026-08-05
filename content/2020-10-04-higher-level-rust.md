@@ -132,7 +132,7 @@ This is because `impl Trait` really means "This function returns exactly one typ
 There are a number of ways people work around this, commonly:
 1. Explicitly Boxing a return value (allocating it on the heap, and adding runtime overhead when using it - both things which Rust doesn't like doing implicitly):
    ```rust
-     fn maybe_reverse(rev: bool) -> Box<dyn Iterator<Item=char>> {
+   fn maybe_reverse(rev: bool) -> Box<dyn Iterator<Item=char>> {
        let it = "abc123".chars();
        if rev {
            return Box::new(it.rev());

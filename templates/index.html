@@ -3,8 +3,8 @@
 {% block content %}
 <h1>{{ section.title }}</h1>
 <ul class="toc">
-{% for page in section.pages | reverse -%}
-<li><a href="/{{ page.path }}">{{ page.title }}</a> <span class="date">({{ page.date }})</span></li>
+{% for page in section.pages -%}
+<li><a href="{{ page.path }}">{{ page.title }}</a> <span class="date">({{ page.date }})</span></li>
 {%- endfor %}
 </ul>
 {% endblock %}

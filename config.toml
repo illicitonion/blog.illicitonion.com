@@ -2,7 +2,7 @@ base_url = "https://blog.illicitonion.com"
 
 compile_sass = false
 
-highlight_code = true
-highlight_theme = "charcoal"
-
 build_search_index = false
+
+[markdown.highlighting]
+theme = "github-dark"
